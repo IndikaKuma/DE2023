@@ -1,6 +1,6 @@
 {
-  "project_id": "your projec id",
-  "data_bucket": "your data bucket",
+  "project_id": "dataengineering2023-398611",
+  "data_bucket": "data_de2023_qjsol",
   "trainset_filename": "training_set.csv",
-  "model_repo": "your project model repo"
+  "model_repo": "models_de2023_qjsol"
 }
